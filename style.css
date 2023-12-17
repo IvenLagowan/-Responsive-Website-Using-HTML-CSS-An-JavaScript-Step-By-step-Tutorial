@@ -169,7 +169,7 @@ nav .logo{
         font-size: 14px;
     }
     .menu-icon{
-        display: none;
+        display: block;
         width: 30px;
     }
     .show-menu{
